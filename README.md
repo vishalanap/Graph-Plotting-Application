@@ -22,7 +22,8 @@
 <summary>
 statistical charts
 </summary>
-| Bar chart             | Line chart            |
-|-----------------------|-----------------------|
-|![barchart](Download_plot/barchart_plot.png)
+
+| Bar chart                                     | Line chart                      |
+| --------------------------------------------- | ------------------------------- |
+| ![barchart](Download_plot/barchart_plot.png)  | ![linechart](Download_plot/line_chart_plot.png) |
 </details>
