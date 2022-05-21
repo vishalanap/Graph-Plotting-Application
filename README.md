@@ -21,10 +21,10 @@
 <details>
 <summary>
 statistical charts
+</summary>
 <summary>
 bar chart
 </summary>
 
 ![barchart](Download_plot/barchart_plot.png)
-</summary>
 </details>
