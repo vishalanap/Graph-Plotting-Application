@@ -14,7 +14,7 @@
 <hr>
 
 ### Overview 
-![Overview](Download_plot/overview.png)
+![Overview](screenshots/overview.png)
 
 <hr>
 
