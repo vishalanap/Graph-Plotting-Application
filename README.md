@@ -32,3 +32,41 @@ statistical charts
 | ![boxchart](Download_plot/boxplot.png)        | ![piechart](Download_plot/piechart.png) |
 
 </details>
+<details>
+<summary>
+standard curves
+</summary>
+
+| Parabola                                      | Hyperbola                         |
+| --------------------------------------------- | --------------------------------- |
+| ![parabola](Download_plot/parabola_plot.png)  | ![hyperbola](Download_plot/hyperbola_plot.png) |
+
+| Circle                                        | Ellipse                           |
+| --------------------------------------------- | --------------------------------- |
+| ![circle](Download_plot/circle_plot.png)      | ![ellipse](Download_plot/ellipse_plot.png) |
+
+| Line                                          | Exponential                       |
+| --------------------------------------------- | --------------------------------- |
+| ![line](Download_plot/line_plot.png)          | ![exponential](Download_plot/exponential_plot.png) |
+
+| Sine                                          | Cosine                            |
+| --------------------------------------------- | --------------------------------- |
+| ![sine](Download_plot/sine_plot.png)          | ![cosine](Download_plot/cosine_plot.png) |
+
+| Cosecant                                      | Secant                            |
+| --------------------------------------------- | --------------------------------- |
+| ![cosecant](Download_plot/cosec_plot.png)     | ![secant](Download_plot/sec_plot.png) |
+
+| Tangent                                       | Cotangent                         |
+| --------------------------------------------- | --------------------------------- |
+| ![tangent](Download_plot/tangent_plot.png)    | ![cotangent](Download_plot/cot_plot.png) |
+</details>
+<details>
+<summary>
+points plotting
+</summary>
+
+| Point plotting                                |
+| --------------------------------------------- |
+| ![pointsplot](Download_plot/point_plot.png)   | 
+</details>
