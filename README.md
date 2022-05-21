@@ -15,3 +15,16 @@
 
 ### Overview 
 ![Overview](Download_plot/overview.png)
+
+### Features
+
+<details>
+<summary>
+statistical charts
+<summary>
+bar chart
+</summary>
+
+![barchart](Download_plot/barchart_plot.png)
+</summary>
+</details>
