@@ -27,8 +27,8 @@ statistical charts
 | --------------------------------------------- | ------------------------------- |
 | ![barchart](Download_plot/barchart_plot.png)  | ![linechart](Download_plot/line_chart_plot.png) |
 
-| Box chart                                     | Pie chart                      |
+| Box chart                                     | Pie chart                       |
 | --------------------------------------------- | ------------------------------- |
-| ![boxchart](Download_plot/boxplot.png)  | ![piechart](Download_plot/piechart.png) |
+| ![boxchart](Download_plot/boxplot.png)        | ![piechart](Download_plot/piechart.png) |
 
 </details>
