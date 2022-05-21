@@ -16,6 +16,8 @@
 ### Overview 
 ![Overview](Download_plot/overview.png)
 
+<hr>
+
 ### Features
 
 <details>
@@ -70,3 +72,17 @@ points plotting
 | --------------------------------------------- |
 | ![pointsplot](Download_plot/point_plot.png)   | 
 </details>
+
+<hr>
+
+### Advantages
+
+1. Graph plotting can summarize large data set in visual form.
+2. Standard curves known as calibration curves which can be used in quantitative analysis and research.
+3. Point plotting helps to estimate exact location of a entity with respect to other entities.
+4. Bar chart can be used to display relative numbers or proportions of multiple categories and also clarify trends better than tables.
+5. Line chart gives quick analysis of data and we can easily observe changes over a certain period of time.
+6. Pie chart represents data visually as a fractional part of a whole, which can be an effective communication tool for the even uninformed audience.
+7. Statistical box chart is five-number data summary which can handle and present large amount of data.
+
+<hr>
