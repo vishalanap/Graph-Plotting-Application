@@ -76,5 +76,9 @@
 
 <hr>
 
-![example1](screenshots/1_mainwindow.png)
-![example2](screenshots/2_standard_curves.png)
+<p align="center">
+<a href=" ">
+    <img src="screenshots/1_mainwindow.png" alt="example1"/>
+    <img src="screenshots/2_standard_curves.png" alt="example2"/>
+</a>
+</p>
