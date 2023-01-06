@@ -20,7 +20,7 @@
 
 ### Features
 
-#### statistical charts
+* statistical charts
 
 | Bar chart                                     | Line chart                      |
 | --------------------------------------------- | ------------------------------- |
@@ -30,7 +30,7 @@
 | --------------------------------------------- | ------------------------------- |
 | ![boxchart](Download_plot/boxplot.png)        | ![piechart](Download_plot/piechart.png) |
 
-#### standard curves
+* standard curves
 
 | Parabola                                      | Hyperbola                         |
 | --------------------------------------------- | --------------------------------- |
@@ -56,7 +56,7 @@
 | --------------------------------------------- | --------------------------------- |
 | ![tangent](Download_plot/tangent_plot.png)    | ![cotangent](Download_plot/cot_plot.png) |
 
-#### points plotting
+* points plotting
 
 | Point plotting                                |
 | --------------------------------------------- |
@@ -75,3 +75,6 @@
 7. Statistical box chart is five-number data summary which can handle and present large amount of data.
 
 <hr>
+
+![example1](screenshots/1_mainwindow.png)
+![example2](screenshots/2_standard_curves.png)
