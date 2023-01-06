@@ -20,10 +20,7 @@
 
 ### Features
 
-<details>
-<summary>
-statistical charts
-</summary>
+#### statistical charts
 
 | Bar chart                                     | Line chart                      |
 | --------------------------------------------- | ------------------------------- |
@@ -33,11 +30,7 @@ statistical charts
 | --------------------------------------------- | ------------------------------- |
 | ![boxchart](Download_plot/boxplot.png)        | ![piechart](Download_plot/piechart.png) |
 
-</details>
-<details>
-<summary>
-standard curves
-</summary>
+#### standard curves
 
 | Parabola                                      | Hyperbola                         |
 | --------------------------------------------- | --------------------------------- |
@@ -62,16 +55,12 @@ standard curves
 | Tangent                                       | Cotangent                         |
 | --------------------------------------------- | --------------------------------- |
 | ![tangent](Download_plot/tangent_plot.png)    | ![cotangent](Download_plot/cot_plot.png) |
-</details>
-<details>
-<summary>
-points plotting
-</summary>
+
+#### points plotting
 
 | Point plotting                                |
 | --------------------------------------------- |
 | ![pointsplot](Download_plot/point_plot.png)   | 
-</details>
 
 <hr>
 
